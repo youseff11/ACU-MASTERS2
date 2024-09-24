@@ -7,6 +7,10 @@
     color:white; 
     text-decoration: none;
 }
+.hero-box-s .fa-facebook:hover,.fa-instagram:hover,.fa-whatsapp:hover{
+    color:rgb(235, 184, 184) ;
+
+}
 .hero-box-s i:hover {
     color: #007bff; 
 }
