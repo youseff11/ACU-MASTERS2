@@ -1,0 +1,36 @@
+.grid-box-img{
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.grid-box h1,h3{
+    text-align: center;}
+.header .navbar .navbar-nav .aboutus {
+    color:rgb(235, 184, 184) !important;
+}
+.grid-box{
+    padding: 2rem;
+    display: grid;
+    height: auto;
+    position: relative;
+}
+body{
+    color: white;
+}
+.heroo-section{
+    position: relative;
+    width: 100%;
+}
+.foooter-box{
+    position: absolute;
+    height: 10vh;
+    width: 100%;
+    background-color: transparent;
+
+}
+.dropdown-menu a:focus, .dropdown-menu a:active {
+    outline: none;
+    color: rgb(235, 184, 184); 
+    background-color: transparent; 
+    box-shadow: none; 
+}
